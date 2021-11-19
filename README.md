@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on ReactJS
-- 🤔 I’m looking for help with N/A
-- 💬 Ask me about JavaScript
+- 🔭 I’m currently working with Unleash
+- 🌱 I’m always learning
+- 💬 Ask me about anything
 - 📫 How to reach me: [Instagram](https://www.instagram.com/youcef.dev)
-

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1> <p align="center"><b>Software Engineer at <a href="https://github.com/Unleash" target="_blank" rel="noreferrer"> Unleash</a></b></p>
-<p align="left">3+ years of software engineering focused on JavaScript with an emphasis in React/NodeJs and AWS.
+<p align="left">3+ years of software engineering focused on JavaScript and TypeScript with an emphasis in React/NodeJs and AWS.
 
 It's true that I am still at the beginning of my professional career but I am doing my best each day to bring more value to the market. I wake up each day asking myself "How could I be more valuable to my organization?". I believe that "Our rewards in life will always be in exact proportion to our contribution to our service"
 I aim too high in my career that people might think that I am greedy but that's who I am, I am hungry to learn and succeed. 🚀

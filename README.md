@@ -15,10 +15,6 @@ I just want to keep the balance in my life, spiritually, socially, professionall
 
 📧 E-mail: ykhedher1@gmail.com</p>
 
-- 🔭 I’m currently working on [Unleash](https://github.com/Unleash)
-
-- 🌱 I’m currently learning **AWS**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ykhedher1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ykhedher1" height="30" width="40" /></a>
